@@ -8,7 +8,6 @@ Bu repository, modern bir e-ticaret uygulaması geliştirmek için kullanılan b
 - **Arama Fonksiyonu**: Ürünler üzerinde arama yaparak hızlıca bulma imkanı.
 - **Sepet Yönetimi**: Sepete ürün ekleme, çıkarma ve toplam fiyat hesaplama.
 - **Temalı Görünüm**: Kullanıcıların tema (açık/koyu) tercihine göre uygulama görünümünü değiştirebilme.
-- **Admin Paneli**: Yöneticiler ürünleri ekleyebilir ve yönetebilir.
 
 ## Teknolojiler
 
