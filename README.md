@@ -17,6 +17,22 @@ Bu repository, modern bir e-ticaret uygulaması geliştirmek için kullanılan b
 - **Routing**: React Router
 - **Styling**: CSS
 
+## Uygulama Ekranları
+**Ana Ekran**
+
+![Ekran Görüntüsü (3)](https://github.com/user-attachments/assets/385ef570-9029-4bb1-8536-ba670bb3c6fa)
+
+**Arama Sonuç Ekranı**
+
+![Ekran Görüntüsü (4)](https://github.com/user-attachments/assets/af537d64-55b9-45cd-8de9-b54223d8ede9)
+
+
+**Ürün Detay**
+![Ekran Görüntüsü (1)](https://github.com/user-attachments/assets/3d45334d-93f9-4743-af3d-184f9c82be1a)
+
+**Sepetteki Ürünler**
+![Ekran Görüntüsü (2)](https://github.com/user-attachments/assets/2c116e26-04f0-4634-bb0e-7d8bec3f3128)
+
 ## Kurulum
 
  - **Projede kullanılan veriler : https://fakestoreapi.com dan sağlanmıştır**
