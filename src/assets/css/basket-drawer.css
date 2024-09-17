@@ -1,0 +1,74 @@
+/* basket-drawer.css */
+
+/* Genel stil ayarları */
+.basket-drawer-content {
+    padding: 20px;
+    color: #000; /* Açık tema yazı rengi */
+}
+
+.dark-theme .basket-drawer-content {
+    color: #ddd; /* Koyu tema yazı rengi */
+    background-color: #333; /* Koyu tema arka plan rengi */
+}
+
+/* Başlık stilleri */
+.drawer-title {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+.dark-theme .drawer-title {
+    color: #ddd; /* Koyu tema başlık rengi */
+}
+
+/* Sepet öğeleri */
+.basket-items {
+    list-style-type: none;
+    padding: 0;
+}
+
+.basket-item {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.basket-item-image {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.basket-item-info {
+    flex: 1;
+}
+
+.basket-item-title {
+    font-weight: bold;
+}
+
+.dark-theme .basket-item {
+    border-bottom: 1px solid #444; /* Koyu tema sepet öğesi kenar rengi */
+}
+
+/* Buton stilleri */
+.remove-button {
+    color: red; /* Yazı rengi */
+    border-color: red; /* Kenar rengi */
+    margin-left: 10px;
+}
+
+.dark-theme .remove-button {
+    color: #ff5733; /* Koyu tema yazı rengi */
+    border-color: #ff5733; /* Koyu tema kenar rengi */
+}
+
+.checkout-button {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.dark-theme .checkout-button {
+    background-color: #0056b3; /* Koyu tema buton arka plan rengi */
+}

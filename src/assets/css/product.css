@@ -1,0 +1,61 @@
+/* product.css */
+
+/* Kart görünümünü geliştirme */
+.card {
+    transition: transform 0.3s, box-shadow 0.3s; /* Geçiş efektleri */
+    border: none;
+    border-radius: 10px; /* Köşeleri yuvarlatma */
+    overflow: hidden; /* İçerik taşmasını engelleme */
+    background-color: #fff; /* Açık tema arka plan rengi */
+}
+
+.dark-theme .card {
+    background-color: #444; /* Koyu tema arka plan rengi */
+}
+
+/* Kart üzerine gelindiğinde efekt */
+.card:hover {
+    transform: translateY(-10px); /* Hafif yukarı kaydırma */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Gölge efekti */
+}
+
+/* Kart resmi görünümü */
+.card-img-top {
+    object-fit: cover; /* Resmi kapsayıcıya sığdırma */
+    height: 200px; /* Sabit yükseklik */
+}
+
+/* Fiyat ve diğer metinlerin stilleri */
+.card-text.price {
+    color: red; /* Fiyat rengi */
+    font-weight: bold; /* Fiyatı vurgulama */
+}
+
+.dark-theme .card-text.price {
+    color: #ff5733; /* Koyu tema fiyat rengi */
+}
+
+.card-text.rating {
+    font-size: 1.2em;
+}
+
+/* Detaylar butonunun görünümü */
+.btn-primary {
+    background-color: #007bff; /* Açık tema buton arka plan rengi */
+    border: none;
+    border-radius: 5px; /* Köşeleri yuvarlatma */
+    color: #fff; /* Açık tema buton yazı rengi */
+}
+
+.dark-theme .btn-primary {
+    background-color: #0056b3; /* Koyu tema buton arka plan rengi */
+    color: #ddd; /* Koyu tema buton yazı rengi */
+}
+
+.btn:hover {
+    background-color: #0a4585; /* Açık tema buton hover arka plan rengi */
+}
+
+.dark-theme .btn:hover {
+    background-color: #004080; /* Koyu tema buton hover arka plan rengi */
+}
