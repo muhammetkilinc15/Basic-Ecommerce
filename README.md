@@ -1,6 +1,6 @@
 # E-Commerce Web Application
 
-Bu repository, modern bir e-ticaret uygulaması geliştirmek için kullanılan bir projedir. React ve Node.js tabanlı bu uygulama, kullanıcılara ürünleri görüntüleme, arama yapma, sepetlerine ürün ekleme ve ödeme işlemlerini gerçekleştirme imkanı sunar.
+React ile geliştirilen  uygulama, kullanıcılara ürünleri görüntüleme, arama yapma, sepetlerine ürün ekleme ve silme  işlemlerini gerçekleştirme imkanı sunar.
 
 ## Özellikler
 
