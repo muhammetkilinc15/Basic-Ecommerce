@@ -1,4 +1,4 @@
-# E-Commerce Web Application
+# React-ECommerceApp
 
 React ile geliştirilen  uygulama, kullanıcılara ürünleri görüntüleme, arama yapma, sepetlerine ürün ekleme ve silme  işlemlerini gerçekleştirme imkanı sunar.
 
